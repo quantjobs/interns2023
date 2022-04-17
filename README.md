@@ -19,17 +19,17 @@ SWE Internships:
 2. Citadel, Jump
 3. Optiver, 5 Rings, D. E. Shaw
 4. Two Sigma, Akuna Capital, DRW, Virtu, IMC, Flow Traders, Tower, TransMarket Group
-5. Schonfeld, Susquehanna, Millenium Management, Big Banks, Bridgewater, Cubist/AQR
+5. Schonfeld, Susquehanna, Millenium Management, Big Banks, Bridgewater, Cubist/AQR, Belvedere
 
 QT/QR Internships:
 
 1. Citadel Securities, Jane Street, HRT, PDT, Radix
 2. Citadel, Jump, D. E. Shaw, Aquatic
 3. Optiver, 5 Rings, Two Sigma, Akuna Capital, DRW, Susquehanna, Tower, TransMarket Group
-4. Virtu, IMC, Flow Traders, Cubist/AQR, Schonfeld, Millenium Management, Big Banks, Bridgewater
+4. Virtu, IMC, Flow Traders, Cubist/AQR, Schonfeld, Millenium Management, Big Banks, Bridgewater, Belvedere
 5. None. For people driving profit, the sky is the limit in quantitative trading and research. It is never definitely worse than a tech career.
 
-Firm Desscriptions and Links:
+Firm Descriptions and Links:
 
 Akuna (SWE, QR, QT)
 
@@ -37,6 +37,17 @@ Aquatic (QR)
 
 AQR/Cubist (SWE, QR)
 
+Belvedere (SWE, QR, QT)
+
+Bridgewater (SWE, QR)
+
+D. E. Shaw (SWE, QR, QT)
+
+DRW (SWE, QR, QT)
+
+Five Rings (SWE, QR, QT)
+
+Flow Traders (SWE, QR, QT)
 
 
 
